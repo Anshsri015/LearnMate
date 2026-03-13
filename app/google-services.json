@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "463935277557",
+    "firebase_url": "https://learnmate-be35b-default-rtdb.firebaseio.com",
+    "project_id": "learnmate-be35b",
+    "storage_bucket": "learnmate-be35b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463935277557:android:04a9bdb9654e207d02b8bc",
+        "android_client_info": {
+          "package_name": "com.example.curdrealtimeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463935277557-piupr8irg8c8h4mprt5dpbitaae755s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8reblnfgOjAgVwI5k7KoecpaL9riQgio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463935277557-3vka30oj2ffebqrelmr9g21m7diooh8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463935277557:android:0f1a274512b8262402b8bc",
+        "android_client_info": {
+          "package_name": "com.example.learnmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463935277557-piupr8irg8c8h4mprt5dpbitaae755s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8reblnfgOjAgVwI5k7KoecpaL9riQgio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463935277557-3vka30oj2ffebqrelmr9g21m7diooh8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
